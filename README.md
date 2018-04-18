@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Github Pull Request Basics
 
 ## Objectives:
@@ -112,3 +113,6 @@ commits will be added automatically.
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/github-pull-request-basics' title='Github Pull Request Basics'>Github Pull Request Basics</a> on Learn.co and start learning to code for free.</p>
 
 [pr]: https://github.com/ruby/ruby/pull/1051
+=======
+ahoy potate
+>>>>>>> 46599fecb27e6fc9b079441d116aeeba52c979be
